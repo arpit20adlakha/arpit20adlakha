@@ -52,7 +52,7 @@ When I am not coding, you will find me around mountains or beaches. Or stuck at 
 
 <ul>
     <li>
-        <a href="https://arpit-adlakha.medium.com/popular-places-to-find-a-software-job-e4be0543ff7a"><b>All Aboard the MentorShip</b></a>
+        <a href="https://arpit-adlakha.medium.com/popular-places-to-find-a-software-job-e4be0543ff7a"><b>Finding a Software Job </b></a>
     </li>
 </ul>
 
