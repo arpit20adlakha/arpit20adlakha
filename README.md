@@ -46,7 +46,7 @@ When I am not coding, you will find me around mountains or beaches. Or stuck at 
         <td><img src="https://img.shields.io/github/forks/arpit20adlakha/tinder-clone?style=plastic&amp;labelColor=343b41" /></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/arpit20adlakha/Jira">Jira </a></td>
+        <td><a href="https://github.com/arpit20adlakha/Jira">Backend for Jira Like System</a></td>
         <td><img src="https://img.shields.io/github/stars/arpit20adlakha/Jira"?style=plastic&amp;labelColor=343b41" /></td>
         <td><img src="https://img.shields.io/github/forks/arpit20adlakha/Jira"?style=plastic&amp;labelColor=343b41" /></td>
     </tr>
