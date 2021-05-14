@@ -72,7 +72,7 @@ When I am not coding, you will find me around mountains or beaches. Or stuck at 
 
 <p>
     <a href="https://github.com/arpit20adlakha" target="_blank">
-        <img alt="github" src="https://img.shields.io/github/followers/arpit20adlakhalabel=GitHub&amp;style=social" />
+        <img alt="github" src="https://img.shields.io/github/followers/arpit20adlakha?label=GitHub&amp;style=social" />
     </a><a href="https://www.linkedin.com/in/arpit-adlakha-30691a101/" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
     </a><a href="https://twitter.com/arpit20adlakha" target="_blank">
