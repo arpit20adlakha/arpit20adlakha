@@ -31,21 +31,19 @@ When I am not coding, you will find me around mountains or beaches. Or stuck at 
         <td> 📚 Forks </td>
     </thead>
     <tr>
-        <td><a href="https://github.com/und3fined-v01d/Friend.ly">Friend.ly</a></td>
-        <td><img src="https://img.shields.io/github/stars/und3fined-v01d/Friend.ly?style=plastic&amp;labelColor=343b41" /></td>
-        <td><img src="https://img.shields.io/github/forks/und3fined-v01d/Friend.ly?style=plastic&amp;labelColor=343b41" /></td>
-    </tr><tr>
-        <td><a href="https://github.com/vidhi-mody/Apply-By-AI">Apply By AI</a></td>
-        <td><img src="https://img.shields.io/github/stars/vidhi-mody/Apply-By-AI?style=plastic&amp;labelColor=343b41" /></td>
-        <td><img src="https://img.shields.io/github/forks/vidhi-mody/Apply-By-AI?style=plastic&amp;labelColor=343b41" /></td>
-    </tr><tr>
-        <td><a href="https://github.com/vrushti-mody/WandaVision">Wanda Vision</a></td>
+        <td><a href="https://github.com/arpit20adlakha/cowin-vaccine-scheduler-repo">Vaccine Slot Notifier</a></td>
+        <td><img src="https://img.shields.io/github/stars/arpit20adlakha/cowin-vaccine-scheduler-repo?style=plastic&amp;labelColor=343b41%22" /></td>
+        <td><img src="https://img.shields.io/github/forks/arpit20adlakha/cowin-vaccine-scheduler-repo?style=plastic&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/arpit20adlakha/tinder-clone">Tinder Clone Web-App</a></td>
+        <td><img src="https://img.shields.io/github/stars/arpit20adlakha/tinder-clone?style=plastic&amp;labelColor=343b41" /></td>
+        <td><img src="https://img.shields.io/github/forks/arpit20adlakha/tinder-clone?style=plastic&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/arpit20adlakha/Jira">Jira </a></td>
         <td><img src="https://img.shields.io/github/stars/vrushti-mody/WandaVision?style=plastic&amp;labelColor=343b41" /></td>
         <td><img src="https://img.shields.io/github/forks/vrushti-mody/WandaVision?style=plastic&amp;labelColor=343b41" /></td>
-    </tr><tr>
-        <td><a href="https://github.com/vidhi-mody/DSA">DSA</a></td>
-        <td><img src="https://img.shields.io/github/stars/vidhi-mody/DSA?style=plastic&amp;labelColor=343b41" /></td>
-        <td><img src="https://img.shields.io/github/forks/vidhi-mody/DSA?style=plastic&amp;labelColor=343b41" /></td>
     </tr>
 </table>
 
@@ -54,39 +52,31 @@ When I am not coding, you will find me around mountains or beaches. Or stuck at 
 
 <ul>
     <li>
-        <a href="https://www.vidhimody.me/blog/2021-03-23-all-aboard-the-mentorship/"><b>All Aboard the MentorShip</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2021-01-22-git-commited-for-life/"><b>git: committed for life</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2021-01-07-blogging-the-reel-world/"><b>Blogging the Reel World</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2020-12-31-memories/"><b>Hold on to the memories they will hold on to you!</b></a>
-    </li><li>
-        <a href="https://www.vidhimody.me/blog/2020-08-26-gsocpedia-final-chapter/"><b>GSoCpedia: Final Chapter</b></a>
+        <a href="https://arpit-adlakha.medium.com/popular-places-to-find-a-software-job-e4be0543ff7a"><b>All Aboard the MentorShip</b></a>
     </li>
 </ul>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=vidhi-mody&color=blue"/>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vidhi-mody"/>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=arpit20adlakha&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=arpit20adlakha"/>
 </p>
 
 <a align="center" href="https://vidhi-mody.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api?username=vidhi-mody&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi-mody&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=arpit20adlakha&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit20adlakha&layout=compact&theme=tokyonight" alt="languages" height="165">
 </a>
 
 <!-- SOCIAL -->
 <h3>:milky_way: Find me in the 'verse</h3>
 
 <p>
-    <a href="https://github.com/vidhi-mody" target="_blank">
-        <img alt="github" src="https://img.shields.io/github/followers/vidhi-mody?label=GitHub&amp;style=social" />
-    </a><a href="https://linkedin.com/in/vidhi-m" target="_blank">
+    <a href="https://github.com/arpit20adlakha" target="_blank">
+        <img alt="github" src="https://img.shields.io/github/followers/arpit20adlakhalabel=GitHub&amp;style=social" />
+    </a><a href="https://www.linkedin.com/in/arpit-adlakha-30691a101/" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
-    </a><a href="https://twitter.com/vidhi_mody" target="_blank">
-        <img alt="twitter" src="https://img.shields.io/twitter/follow/vidhi_mody?label=Twitter&amp;style=social" />
+    </a><a href="https://twitter.com/arpit20adlakha" target="_blank">
+        <img alt="twitter" src="https://img.shields.io/twitter/follow/arpit20adlakha?label=Twitter&amp;style=social" />
     </a>
 </p>
 
@@ -98,7 +88,7 @@ When I am not coding, you will find me around mountains or beaches. Or stuck at 
     Last refresh: 2021-05-13T00:59:57.267Z<br />
 </p>
 <p align="center">
-    <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
-    <img alt="Stars" src="https://img.shields.io/github/stars/vidhi-mody/vidhi-mody?style=flat-square&labelColor=343b41"/> 
-    <img alt="Forks" src="https://img.shields.io/github/forks/vidhi-mody/vidhi-mody?style=flat-square&labelColor=343b41"/>
+    <img src="https://github.com/arpit20adlakha/arpit20adlakha/workflows/README%20build/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/arpit20adlakha/arpit20adlakha?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/arpit20adlakha/arpit20adlakha?style=flat-square&labelColor=343b41"/>
 </p>
