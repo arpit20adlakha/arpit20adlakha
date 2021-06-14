@@ -3,9 +3,9 @@
 <p align="center">Welcome to my page! </br> I'm Arpit, a Software Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330176.svg" width="13"/> <b>Bangalore, India</b>.</p>
 
 <p>
-    I am a problem solver and like to solve those problems by writing amazing software. I am always intrigued by the way software has influenced our lives in a matter of such a short time.  ¯\ (ツ) /¯
+    I like to think of myself as a problem solver. I write Software to solve problems. I am always intrigued by the way software has influenced our lives.  ¯\ (ツ) /¯
 
-I’m passionate about building tools to help people save time and do more with their lives. I am proficient in software development, computer science, competitive coding, good coding practices , designing scalable systems and much more.
+I’m passionate about building tools to help people save time and do more with their lives. I am proficient in software development, computer science, competitive coding, good coding practices , designing scalable systems and much more. HLD, LLD , Data Structures and Algorithms are parts of my expertise.
 
 Currently I am working with Gojek, the biggest tech company in Indonesia solving problems for a user base of around 40 million active users. Previously I have worked with Groupon one of the world's largest ecommerce and Zscaler one of the best cloud based security provider in the world handling transactions of 1 trillion requests a day with latency as low as 20-30ms. I have secured job offers from Paytm, Amazon, Cleartax and Inmobi in the past.
 </p>
