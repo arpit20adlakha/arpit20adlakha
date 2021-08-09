@@ -3,7 +3,7 @@
 <p align="center">Welcome to my page! </br> I'm Arpit, a Software Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/330/330176.svg" width="13"/> <b>Bangalore, India</b>.</p>
 
 <p>
-    I like to think of myself as a problem solver. I write Software to solve problems. I am always intrigued by the way software has influenced our lives.  ¯\ (ツ) /¯
+    I write Software to solve problems. I am always intrigued by the way software has influenced our lives.  ¯\ (ツ) /¯
 
 I’m passionate about building tools to help people save time and do more with their lives. I am proficient in software development, computer science, competitive coding, good coding practices , designing scalable systems and much more. HLD, LLD , Data Structures and Algorithms are parts of my expertise.
 
