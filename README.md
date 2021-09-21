@@ -1,6 +1,6 @@
 <h1>Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p align="center">Welcome to my page! </br> I'm Arpit, a Software Developer from width="13"/> <b>Bangalore, India</b>.</p>
+<p align="center">Welcome to my page! </br> I'm Arpit, a Software Developer from <b>Bangalore, India</b>.</p>
 
 <p>
     I write Software to solve problems. I am always intrigued by the way software has influenced our lives.  ¯\ (ツ) /¯
